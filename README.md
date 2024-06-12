@@ -2,12 +2,6 @@
 
 BlitzProg is a Discord bot designed for blitz programming games. It facilitates coding challenges and competitions within Discord servers, providing an engaging way for users to improve their programming skills.
 
-## Features
-
-- **Real-time Coding Challenges:** Participate in timed coding challenges directly within Discord.
-- **Score Tracking:** Automatically tracks and updates user scores.
-- **Customizable:** Easily customize challenge settings and parameters.
-
 ## Installation
 
 To run BlitzProg on your local machine, follow these steps:

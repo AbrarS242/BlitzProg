@@ -33,5 +33,5 @@ To run BlitzProg on your local machine, follow these steps:
 ## Usage
 
 1. **Invite the bot:** to your Discord server using the invite link generated in the Discord Developer Portal.
-2. **Start a challenge**: Use the command `/start [language] [duration]` to initiate a new coding challenge.
-3. **Submit solutions**: Users can submit their solutions using the command `/submit [solution]`.
+2. **Start a challenge**: Use the commands `!init`  and `!start` to initiate a new coding challenge.
+3. **Submit solutions**: Users can submit their solutions using the command `!submit`.
